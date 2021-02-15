@@ -24,7 +24,7 @@
 
 
 ## 获取本镜像
-🚘获取本镜像：`docker pull mrjin/yapi:latest`
+🚘获取本镜像：`docker pull zy84338719/yapi:amd64`
 
 ## docker-compose 部署
 ```
