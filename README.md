@@ -16,7 +16,7 @@
 | VERSION | 1.5.6  | 可以修改成yapi已发布的版本   |
 | HOME | /home | 可修改 |  
 | PORT | 3000  | 可修改 | 
-| ADMIN_EMAIL | me@jinfeijie.cn  | 建议修改 | 
+| ADMIN_EMAIL | zhangyi@murphyyi.com  | 建议修改 | 
 | DB_SERVER | mongo(127.0.0.1)  | 不建议修改 |
 | DB_NAME | yapi  | 不建议修改 |
 | DB_PORT | 27017 | 不建议修改|
